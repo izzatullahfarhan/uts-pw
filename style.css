@@ -45,7 +45,7 @@ a:hover {
 .content {
   width: 100%;
   height: 500px;
-  background-image: url(img/5e6ee88f78835.jpg);
+  background-image: url(5e6ee88f78835.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 10px 10px 10px rgb(139, 138, 138);
@@ -169,7 +169,7 @@ h2:hover {
 .gambar {
   width: 400px;
   height: 450px;
-  background-image: url(img/farhan.jpg);
+  background-image: url(farhan.jpg);
   margin: auto;
   margin-top: 25px;
 }
